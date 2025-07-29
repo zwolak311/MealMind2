@@ -1,4 +1,4 @@
-package com.mealmind
+package com.mealmind.core.di
 
 import android.os.Build
 

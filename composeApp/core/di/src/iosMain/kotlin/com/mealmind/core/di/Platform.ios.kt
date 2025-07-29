@@ -1,4 +1,4 @@
-package com.mealmind
+package com.mealmind.core.di
 
 import platform.UIKit.UIDevice
 
